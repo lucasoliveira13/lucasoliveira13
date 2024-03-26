@@ -1,13 +1,13 @@
-                                                                                    # 👋 Hi, I'm Lucas Matheus. 
+#                                                                                              👋 Hi, I'm Lucas Matheus. 
 
 ## About Me:
 
-- 🧑‍💻 I’m currently working as a Junior Artificial Inteligence Engineer @ Avantia/WeSafer.
-- 📚 I recently graduated with a Bachelor's degree in Computer Engineering @ University of Pernambuco.
-- 😄 Pronouns: He/him.
-- 🗺️ Languages: Brazilian portuguese, english and a little bit of spanish.
+> - 🧑‍💻 I’m currently working as a Junior Artificial Inteligence Engineer @ Avantia/WeSafer.
+> - 📚 I recently graduated with a Bachelor's degree in Computer Engineering @ University of Pernambuco.
+> - 😄 Pronouns: He/him.
+> - 🗺️ Languages: Brazilian portuguese, english and a little bit of spanish.
 
-## Programming Languages:
+## Programming Languages
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
             
@@ -19,7 +19,7 @@
           
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>     
           
-## Contact me:
+##                                                                                                   Contact me
 
 <div>
 <a href="https://instagram.com/lucazords" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
