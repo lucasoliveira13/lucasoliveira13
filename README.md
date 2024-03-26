@@ -2,7 +2,7 @@
 
 ## 😀 About Me:
 
-> - 🧑‍💻 I’m currently working as a Junior Artificial Inteligence Engineer @ Avantia/WeSafer.
+> - 👨‍💻 I’m currently working as a Junior Artificial Inteligence Engineer @ Avantia/WeSafer.
 > - 📚 I recently graduated with a Bachelor's degree in Computer Engineering @ University of Pernambuco.
 > - 😄 My pronouns are He/him.
 > - 🗺️ I can speak brazilian portuguese, english and a little bit of spanish.
