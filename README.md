@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Lucas and I'm 22. 👋</h1>
+<h1 align="center">Hello! My name is Lucas and I'm 22yo. 👋</h1>
 
 ## About Me:
 
@@ -19,10 +19,12 @@
           
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>     
           
-##Contact me
+<h2 align="center">Contact me</h2>
 
 <div>
+<p align="center">
 <a href="https://instagram.com/lucazords" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lucassooliveira.13@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-oliveira-67620018a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</p>
 </div>
