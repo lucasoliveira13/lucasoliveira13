@@ -1,4 +1,4 @@
-#                                                                                              👋 Hi, I'm Lucas Matheus. 
+<h1 align="center">Hi, my name is Lucas and I'm 22. 👋</h1>
 
 ## About Me:
 
@@ -19,7 +19,7 @@
           
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>     
           
-##                                                                                                   Contact me
+##Contact me
 
 <div>
 <a href="https://instagram.com/lucazords" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
